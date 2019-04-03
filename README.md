@@ -1,2 +1,2 @@
 # 3-Ways-to-Improve-Your-Digital-Project-Management
-Self Helping Book for Everyone
+Self published open source book for learning to how to Manage Digital Projects
