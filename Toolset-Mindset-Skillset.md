@@ -4,15 +4,15 @@ https://youtu.be/z77MnxSP3xM
 $ youtube-dl --write-auto-sub --skip-download https://youtu.be/z77MnxSP3xM
 ```
 
-Today we're talking about three ways to improve your digital project management 
+*Today we're talking about three ways to improve your digital project management 
 
 Well today we're seeing that digital transformation continues with existing companies we also see that digital implementations expand with new companies and startups so more and more having a digital mindset is a must 
 
 and we're seeing that some companies are innovating some really cool ways to work so on this whiteboard session today we want to think about 
 
-toolset
-mindset and 
-skill set 
+-toolset
+-mindset and 
+-skill set 
 
 so let's look at some ways to improve well first of all we want to 
 
