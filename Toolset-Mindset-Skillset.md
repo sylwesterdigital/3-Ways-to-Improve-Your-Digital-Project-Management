@@ -22,6 +22,7 @@ so let's look at some ways to improve well first of all we want to
 
 well again when we think about toolset mindset and skillset think about this hire 
 
+![](Toolset-Mindset-Skillset.png)
 
 someone who **has digital project management experience**
 
